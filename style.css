@@ -1,0 +1,12 @@
+.line{
+    height: 10px;
+    width: 200px;
+    background-color: black;
+    position: center;
+    margin-left: 43%;
+}
+body{
+    text-align: center;
+    background-color: aqua;
+    font-family: fantasy;
+}
